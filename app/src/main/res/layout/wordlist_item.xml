@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="6dp"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/title"
+        style="@style/text_title"
+        android:text="Mc Chicken maison :"></TextView>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#FFFFFF"/>
+    <TextView
+        android:id="@+id/text"
+        style="@style/text_title"
+        android:text="@string/desc1"></TextView>
+
+</LinearLayout>

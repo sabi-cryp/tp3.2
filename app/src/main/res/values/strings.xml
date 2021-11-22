@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RecycleViewer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="description">- 2 pains à burger 
+        - 1 blanc de poulet 
+        - 50 g de chapelure 
+        - 1 œuf 
+        - 1/2 C A C d\'ail en poudre 
+        - Sel, poivre 
+        - Huile de friture 
+        - 2 feuilles de laitue iceberg 
+        - Quelques lamelles d\'oignon rouge 
+        - 2 C A S de mayonnaise</string>
+    <string name="description1">- 400 g de pommes de terre spéciales frites
+        - 2 C A S de paprika
+        - 1 C A S d’origan
+        - 3 C A S d’huile d’olive
+        - 1 C A S d’ail en poudre
+        - 1 C A C de sel
+        - 1/2 C A C de poivre
+        - 1/2 C A C de sucre
+        - 3 C A S de farine
+        - Huile de friture végétale</string>
+    <string name="titre2">Les Deluxe Potatoes</string>
+    <string name="titre1">Mc Chicken fait maison</string>
+    <string name="description3">- 300 g de blanc de poulet - 1 C A S de paprika - Sel, poivre - 200 g de farine - 40 g de chapelure - 1 œuf entier - 25 cl d’eau - 1 C A C d’ail en poudre - Huile de friture végétale</string>
+    <string name="titre3">Les Chicken McNuggets™</string>
+    <string name="desc1">disposer sur chaque petit pain le blanc de poulet pané, puis la salade verte, puis la mayonnaise et le chapeau du burger.</string>
+    <string name="desc2">Bien mélanger et ajouter les pommes de terre. Mélanger à nouveau et ajouter la farine et mélanger à nouveau</string>
+    <string name="desc3">Couper le poulet en morceaux en forme de nuggets. Saupoudrer de paprika, et assaisonner avec un peu de sel et de poivre. Mélanger</string>
+</resources>
